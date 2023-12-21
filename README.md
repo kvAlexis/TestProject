@@ -14,4 +14,4 @@
 2. Второй пункт
 3. Третий пункт
 
-[Страница Вконтакте]((https://vk.com/kvalexis)https://vk.com/kvalexis)
+[Страница Вконтакте](https://vk.com/kvalexis)
